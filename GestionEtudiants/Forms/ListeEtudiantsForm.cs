@@ -14,6 +14,9 @@ namespace GestionEtudiants.Forms
         private void btnAjouter_Click(object sender, EventArgs e)
         {
             // TODO: Ouvre la fenêtre de création d'un étudiant
+            int a = 0;
+            int b = 2;
+            int c = a + b;
         }
 
         private void btnModifier_Click(object sender, EventArgs e)
