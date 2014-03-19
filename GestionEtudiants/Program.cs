@@ -8,6 +8,7 @@ namespace GestionEtudiants
 {
     static class Program
     {
+//test de merde jhgbkuhnl
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
